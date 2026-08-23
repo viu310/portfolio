@@ -15,7 +15,7 @@ function App() {
 
             <div className="profile-image">
               <img
-                src="src/assets/입사사진.jpg"
+                src="/assets/profile.jpg"
                 alt="Profile Image"
               />
             </div>
